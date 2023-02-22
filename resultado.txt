@@ -1,0 +1,7 @@
+Gracias por usar la herramienta suma
+Este es tu resultado: 37
+Este es tu resultado: 165
+Este es tu resultado: 118
+Este es tu resultado: 2
+Este es tu resultado: 9
+Este es tu resultado: 7

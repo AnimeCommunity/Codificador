@@ -1,0 +1,25 @@
+Gracias por usar la herramienta de decodificacion
+Esta es tu clave decifrada: contraseña1*
+Esta es tu clave original: iut...
+Esta es tu clave numerica de cifrado: 6
+-------------------------------
+Esta es tu clave decifrada: contraseña1*
+Esta es tu clave codificada: iut...
+Esta es tu clave numerica de cifrado: 6
+-------------------------------
+Esta es tu clave decifrada: dpousbtfòb2+
+Esta es tu clave codificada: iut...
+Esta es tu clave numerica de cifrado: 5
+-------------------------------
+Esta es tu clave decifrada: CristoferPayan1
+Esta es tu clave codificada: Gvm...
+Esta es tu clave numerica de cifrado: 4
+-------------------------------
+Esta es tu clave decifrada: MiClave1*
+Esta es tu clave codificada: RnH...
+Esta es tu clave numerica de cifrado: 5
+-------------------------------
+Esta es tu clave decifrada: Gnk`
+Esta es tu clave codificada: Hol...
+Esta es tu clave numerica de cifrado: 1
+-------------------------------
